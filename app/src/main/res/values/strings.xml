@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CUNTR</string>
+    <string-array name="countries">
+        <item>USA</item>
+        <item>Aland Islands</item>
+        <item>Aruba</item>
+        <item>Bahrain</item>
+        <item>Maldives</item>
+        <item>Mexico</item>
+        <item>Moldova</item>
+        <item>Mongolia</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Saudi Arabia</item>
+        <item>Tajikistan</item>
+    </string-array>
+</resources>
+
